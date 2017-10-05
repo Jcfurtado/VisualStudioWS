@@ -14,6 +14,6 @@ namespace Jcf.Exercicio.Web.MVC.Models
         [StringLength(30)]
         public string Nome { get; set; }
 
-        public virtual ICollection<Filme> Filmes { get; set; }
+        public virtual List<Filme> Filmes { get; set; }
     }
 }
