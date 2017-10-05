@@ -1,0 +1,55 @@
+﻿@model  Filmes2017.Models.Filme
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadasto de Filmes</h2>
+
+@if (TempData["msg"] != null) {
+
+<div class="alert alert-success">
+    @TempData["msg"]
+
+</div>
+
+}
+
+@using (Html.BeginForm())
+{
+
+
+    <div class="form-group">
+        @Html.LabelFor(f => f.Titulo)
+        @Html.TextBoxFor(f => f.Titulo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(f => f.Titulo, null, new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(f => f.Genero)
+        @Html.TextBoxFor(f => f.Genero, new { @class = "form-control" })
+        @Html.ValidationMessageFor(f => f.Genero, null, new { @class = "text-danger" })
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(f => f.Duracao)
+        @Html.TextBoxFor(f => f.Duracao, new { @class = "form-control" })
+        @Html.ValidationMessageFor(f => f.Duracao, null, new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(f => f.DataLancamento)
+        @Html.TextBoxFor(f => f.DataLancamento, new { @class = "form-control" })
+        @Html.ValidationMessageFor(f => f.DataLancamento, null, new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(f => f.Produtora)
+        @Html.DropDownListFor(f => f.ProdutoraId,ViewBag.produtoras as SelectList,"Selecione a Produtora",new { @class="form-control"})
+
+    </div>
+    <input type="submit" value="Cadastrar" class="btn btn-primary" />
+    <input type="reset" value="Limpar" class="btn btn-danger" />
+}
+
+

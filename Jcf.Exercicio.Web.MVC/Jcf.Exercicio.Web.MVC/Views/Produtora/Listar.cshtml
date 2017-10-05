@@ -1,0 +1,21 @@
+﻿@model List<Jcf.Exercicio.Web.MVC.Models.Produtora>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Lista de Produtoras</h2>
+
+<table class="table table-striped">
+    <tr>
+        <td>ID</td>
+        <td>Nome</td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProdutoraId</td>
+            <td>@item.Nome</td>
+        </tr>
+    }
+</table>

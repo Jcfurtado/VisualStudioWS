@@ -1,0 +1,20 @@
+﻿Criar o projeto ASP.NET MVC e Entity Framework
+- CRUD
+	- Model (Relacionamentos)
+	- DbContext (Configurar o banco)
+	- Repository e UnitOfWork
+	- Criar o Controller (Validações)
+	- Criar View (Layout, Bootstrap)
+	
+Filme					Produtora
+	- FilmeId				- ProdutoraId
+	- Titulo				- Nome
+	- Genero
+	- Duracao
+	- Data Lancamento
+
+
+
+
+
+Primeiro Produtora Depois o filme;

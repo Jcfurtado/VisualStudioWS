@@ -1,0 +1,38 @@
+﻿@model List<Filmes2017.Models.Filme>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Lista de Filmes</h2>
+
+<table class="table table-hover">
+
+    <tr>
+        <th>Titulo</th>
+        <th>Genero</th>
+         <th>Duração</th>
+    <th>Ano de Lancamento</th>
+    <th>Produtora</th>
+    
+    
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+        
+        <td>@item.Titulo</td>
+        <td>@item.Genero</td>
+        <td>@item.Duracao</td>
+        <td>@item.DataLancamento.ToShortDateString()</td>
+        <td>@item.Produtora.Nome</td>
+    </tr>
+
+    }
+
+
+
+
+</table>
+
+

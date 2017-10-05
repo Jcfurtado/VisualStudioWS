@@ -1,0 +1,101 @@
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\obj\Debug\Filmes2017.csprojResolveAssemblyReference.cache
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\ApplicationInsights.config
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\csc.exe
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\System.Collections.Immutable.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\vbc.exe
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\VBCSCompiler.exe
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\roslyn\VBCSCompiler.exe.config
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Filmes2017.dll.config
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Filmes2017.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Filmes2017.pdb
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\EntityFramework.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\EntityFramework.SqlServer.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.Web.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.WindowsServer.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.ApplicationInsights.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.Web.Infrastructure.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Helpers.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Mvc.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Razor.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.Deployment.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.Razor.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\EntityFramework.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\EntityFramework.SqlServer.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.Web.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.AI.WindowsServer.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.ApplicationInsights.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Razor.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.Deployment.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Webpages.Razor.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Helpers.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\bin\System.Web.Mvc.xml
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\obj\Debug\Filmes2017.dll
+c:\users\android\documents\visual studio 2015\Projects\Filmes2017\Filmes2017\obj\Debug\Filmes2017.pdb
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\ApplicationInsights.config
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\csc.exe
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\vbc.exe
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Filmes2017.dll.config
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Filmes2017.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Filmes2017.pdb
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\EntityFramework.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\EntityFramework.SqlServer.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.Web.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Helpers.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Mvc.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Razor.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.Razor.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\EntityFramework.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\EntityFramework.SqlServer.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.Web.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Razor.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Webpages.Razor.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Helpers.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\bin\System.Web.Mvc.xml
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\obj\Debug\Filmes2017.csprojResolveAssemblyReference.cache
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\obj\Debug\Filmes2017.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\obj\Debug\Filmes2017.dll
+C:\Users\diabl\Documents\WorkSpace\JCF\VisualStudioWS\Filmes2017\Filmes2017\obj\Debug\Filmes2017.pdb

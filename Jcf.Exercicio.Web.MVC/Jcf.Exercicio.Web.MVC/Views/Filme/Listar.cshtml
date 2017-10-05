@@ -1,0 +1,27 @@
+﻿@model List<Jcf.Exercicio.Web.MVC.Models.Filme>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Lista de Filmes</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>Titulo</th>
+        <th>Genero</th>
+        <th>Duracao</th>
+        <th>Data Lancamento</th>
+        <th>Produtora</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Titulo</td>
+            <td>@item.Genero</td>
+            <td>@item.Duracao</td>
+            <td>@item.DataLancamento.ToShortDateString()</td>
+            <td>@item.Produtora.Nome</td>
+        </tr>
+    }
+</table>
